@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-distroless",
+  "version": "1.0.0",
+  "description": "A minimal Node.js web application using a distroless container image.",
+  "main": "index.js",
+  "author": "alphasec",
+  "license": "MIT",
+   "dependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
